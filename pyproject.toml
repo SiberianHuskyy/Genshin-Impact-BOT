@@ -8,9 +8,9 @@ authors = [
   "Everything0519 <598139245@qq.com>"
 ]
 readme = "README.md"
-homepage = "https://github.com/Ljzd-PRO/nonebot-plugin-mystool"
-repository = "https://github.com/Ljzd-PRO/nonebot-plugin-mystool"
-documentation = "https://github.com/Ljzd-PRO/nonebot-plugin-mystool/wiki"
+homepage = "https://github.com/SiberianHuskyy/Genshin-Impact-BOT"
+repository = "https://github.com/SiberianHuskyy/Genshin-Impact-BOT"
+documentation = "https://github.com/SiberianHuskyy/Genshin-Impact-BOT/wiki"
 keywords = ["bot", "qq", "qqbot", "onebotv11", "onebot", "nonebot2", "nonebot", "mihoyo", "mihoyobbs"]
 classifiers = [
     "Programming Language :: Python :: 3",
